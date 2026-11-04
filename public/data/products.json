@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Windows 11 Pro", "brand": "Microsoft", "category": "os", "price": 199, "rating": 4.8, "description": "Профессиональная ОС для бизнеса и разработки.", "licenseTypes": ["Personal", "Business", "Enterprise"] },
+  { "id": 2, "title": "JetBrains WebStorm", "brand": "JetBrains", "category": "dev", "price": 129, "rating": 4.8, "description": "IDE для JavaScript и TypeScript.", "licenseTypes": ["Personal", "Business"] },
+  { "id": 3, "title": "Kaspersky Total Security", "brand": "Kaspersky", "category": "antivirus", "price": 49.99, "rating": 4.6, "description": "Защита до 5 устройств.", "licenseTypes": ["Personal"] },
+  { "id": 4, "title": "Adobe Photoshop", "brand": "Adobe", "category": "graphics", "price": 239, "rating": 4.8, "description": "Растровая графика и ретушь.", "licenseTypes": ["Personal", "Business"] },
+  { "id": 5, "title": "Microsoft 365 Business", "brand": "Microsoft", "category": "office", "price": 149, "rating": 4.8, "description": "Офисные приложения для команды.", "licenseTypes": ["Business", "Enterprise"] }
+]

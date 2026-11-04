@@ -1,0 +1,5 @@
+[
+  { "id": 101, "clientId": 1, "productId": 1, "quantity": 1, "total": 199, "date": "2026-11-01" },
+  { "id": 102, "clientId": 2, "productId": 3, "quantity": 2, "total": 99.98, "date": "2026-11-02" },
+  { "id": 103, "clientId": 3, "productId": 2, "quantity": 5, "total": 645, "date": "2026-11-03" }
+]

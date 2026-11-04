@@ -1,0 +1,2 @@
+export function SkeletonCard() { return <div className="skeleton skeleton-card" />; }
+export function SkeletonGrid({ n = 8 }) { return <div className="grid">{Array.from({ length: n }, (_, i) => <SkeletonCard key={i} />)}</div>; }

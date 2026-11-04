@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Иван Иванов", "email": "ivan@example.com", "phone": "7(999)111-22-33" },
+  { "id": 2, "name": "Анна Петрова", "email": "anna@example.com", "phone": "7(999)444-55-66" },
+  { "id": 3, "name": "ООО Вектор", "email": "info@vector.ru", "phone": "7(495)777-88-99" }
+]
